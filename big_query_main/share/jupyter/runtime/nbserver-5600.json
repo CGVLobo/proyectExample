@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\ema",
+  "password": false,
+  "pid": 5600,
+  "port": 8888,
+  "secure": false,
+  "token": "daf630dbdaf02fd01f74ba1a1773edac1c9173e8439f5eb5",
+  "url": "http://localhost:8888/"
+}
